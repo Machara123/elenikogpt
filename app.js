@@ -17,7 +17,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "vaxxx",
         "xoo",
         "vauuu",
-        "ოოოო ხო იცი რო არ ვიცი წერააა"
+        "ოოოო ხო იცი რო არ ვიცი წერააა",
+        "იიიიიიი"
     ];
 
     function appendMessage(sender, message) {
