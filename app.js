@@ -12,7 +12,12 @@ document.addEventListener("DOMContentLoaded", function() {
         "kiiiii",
         "naaaah",
         "kacebi ar mevasebit",
-        "ar mevasebi"
+        "ar mevasebi",
+        "ვკივიიიიიი",
+        "vaxxx",
+        "xoo",
+        "vauuu",
+        "ოოოო ხო იცი რო არ ვიცი წერააა"
     ];
 
     function appendMessage(sender, message) {
