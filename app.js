@@ -7,18 +7,14 @@ document.addEventListener("DOMContentLoaded", function() {
     const chatContainer = document.getElementById("chat-container");
 
     const responses = [
-        "vixxx",
-        "🫠",
-        "kiiiii",
-        "naaaah",
-        "kacebi ar mevasebit",
-        "ar mevasebi",
-        "ვკივიიიიიი",
-        "vaxxx",
-        "xoo",
-        "vauuu",
-        "ოოოო ხო იცი რო არ ვიცი წერააა",
-        "იიიიიიი"
+        "არ ვარ კომპეტენტური",
+        "შეიძლება",
+        "მე შენი ზოდიაქო ვიცი",
+        "სიძე პატარძალი არ მომწონს",
+        "ანდრია 💔",
+        "გასაგებია",
+        "ოფისი არ გაქ ნანახი?"
+        "აღარ გეტყვი"
     ];
 
     function appendMessage(sender, message) {
@@ -65,3 +61,4 @@ document.addEventListener("DOMContentLoaded", function() {
         chatContainer.style.display = "flex";
     });
 });
+
